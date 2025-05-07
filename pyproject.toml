@@ -11,5 +11,5 @@ dependencies = [
 ]
 
 [project.scripts]
-lc-memplot = "handy_scripts:lc_memplot"
-yumrepo-stats = "handy_scripts:yumrepo_stats"
+lc-memplot = "handy_scripts.lc_memplot:main"
+yumrepo-stats = "handy_scripts.yumrepo_stats:main"
